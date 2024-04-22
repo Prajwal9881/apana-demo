@@ -3,4 +3,4 @@ this is my first git repository.
 <br>
 Author - Prajwal Taksande
 <br>
-Partner- urmila more
+Partner- urmila more (not good)
